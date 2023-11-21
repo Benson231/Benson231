@@ -1,5 +1,5 @@
 # 👋 Hi, I’m BENSON #
-## I am Data Analysts #
+## I am Data Analysts ##
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Data Analysis with Dahel Techies
 - 💞️ I’m looking to collaborate with companies, organizations and even individuals to solve their business problems by leveraging data ...
@@ -9,7 +9,7 @@
 - 📫 How to reach me [Linkedin](http://linkedin.com/in/benson-obioma)
 - Pronoun: He
   
-My Arsenal
+My Work Tools
 - Excel
 - My SQL (POSTGRESQL)
 - PowerBi
