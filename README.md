@@ -13,10 +13,10 @@
 - Pronoun: He
  
 # My Work Tools #
-- Excel
+- EXCEL
 - POSTGRESQL
-- PowerBi
-- Tableau
+- POWERBI
+- TABLEAU
 
 # I am Currently working on: #
    Postgresql / Tableau
